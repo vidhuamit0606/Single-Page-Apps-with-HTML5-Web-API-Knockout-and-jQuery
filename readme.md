@@ -1,23 +1,17 @@
 //-------------------------
 // Single Page Apps with HTML5, ASP.NET Web API, Knockout and jQuery
 //
-// Pluralsight
-// John Papa
-// http://twitter.com/john_papa
-// Course: http://jpapa.me/spaps
+// Amith Sharma
 // 
 // Requirements to run the CodeCamper examples
 //
-// Live demo: http://jpapa.me/codecamperdemo
 //
 // License: see codecamper-MIT-LICENSE.txt
 //-------------------------
 
 // Notes
 //-------------------------
-spa-(m2|m3|m4)-xxx.zip contain the code for the demos shown in modules 2-4 of the course.
-
-CodeCamper.zip contains the entire Code Camper application as shown in modules 5-11 of the course.
+CodeCamper.zip contains the entire Code Camper application.
 
 // Tools
 //-------------------------
