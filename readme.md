@@ -2,7 +2,9 @@
 // Single Page Apps with HTML5, ASP.NET Web API, Knockout and jQuery
 //
 // Amith Sharma
-// 
+
+<img src="https://github.com/vidhuamit0606/Single-Page-Apps-with-HTML5-Web-API-Knockout-and-jQuery/blob/master/ScreenShots/Landing_Screen.png" />
+
 // Requirements to run the CodeCamper examples
 //
 //
@@ -100,7 +102,7 @@ In Web.config set
 
 
 LESS
-- Set cache to false. Otherwise errors don’t always show up. Be sure to turn caching on again later, to get performance.
+- Set cache to false. Otherwise errors donâ€™t always show up. Be sure to turn caching on again later, to get performance.
 
 <dotless minifyCss="false" cache="false" web="false" />
 
